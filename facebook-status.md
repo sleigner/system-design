@@ -21,4 +21,4 @@ Design a system where a user can post a status message and other users can searc
 * The Reducer will go through each key and combine all post id that belongs to the same keyword
 * To rebuild index from snapshot files, we just have to re-run the Reducer against the snapshot files
 
-![fb-status-mapreducer](https://user-images.githubusercontent.com/7844980/147387418-76bb5d12-ab0d-49e2-ad3d-7e2263cab26c.png)
+![fb-status-mapreducer](https://user-images.githubusercontent.com/7844980/147387975-7b4113c9-c552-4762-b234-2d165345600d.png)
